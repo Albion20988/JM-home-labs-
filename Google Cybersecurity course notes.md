@@ -10,4 +10,5 @@
 - meets regulatory compliance ouside
 -  external threats: protects against an external threat of someone trying to gain acess to private information or network or devices
 -  Internal threats: comes from current or fromer employess, vendors or trusted partners, an eample of thiis is an employee clikcing on a phising email link
--  
+-  maintaina and improve buisness prductivtiy : supporting the organization to ensure business contitnuity
+-  redecuing  expenses - 
