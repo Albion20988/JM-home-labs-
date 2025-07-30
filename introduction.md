@@ -10,6 +10,9 @@ Welcome to my personal cybersecurity portfolio. This repository showcases my han
 - 🔐 **WireGuard VPN Server** deployed for secure encrypted tunneling  
 - 🧱 Practicing Linux encryption, privilege escalation, and CTF walkthroughs via VirtualBox and VulnHub (e.g. *Mr. Robot*)  
 - 🧠 Cybersecurity theory notes from Google Certificate — [Coming Soon]
+- Linux Command Refrences
+- SQL practice notes
+- Virtulization Project notes
 - CompTia Security + Notes [Coming Soon]
 ## 📬 Connect with Me
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jakob-marshall-73356a286/)
