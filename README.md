@@ -1,8 +1,6 @@
-# JM-home-labs-
-A portfolio of cybersecurity projects and experiments built in my home lab
 # 🧪 JM Home Labs
 
-Welcome to my personal cybersecurity portfolio. This repository showcases my hands-on home lab projects, developed while completing the Google Cybersecurity Professional Certificate and exploring ethical hacking and network security.
+Welcome to my personal cybersecurity portfolio. This repository showcases my hands-on home lab projects, developed while completing the Google Cybersecurity Professional Certificate and CompTia Security + exam and exploring ethical hacking and network security.
 ## 🔍 About Me
 - Passionate about cybersecurity and ethical hacking  
 - Exploring network security, penetration testing, and cyber defense  
