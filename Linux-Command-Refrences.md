@@ -1,3 +1,6 @@
-sudo apt update           # Update package lists
-sudo apt upgrade          # Upgrade all packages
-sudo apt install <package>  # Install a package
+ # Update package lists
+##sudo apt update    
+  # Upgrade all packages
+##sudo apt upgrade    
+# Install a package
+##sudo apt install <package>  
