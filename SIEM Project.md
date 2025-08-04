@@ -1,1 +1,1 @@
-After facing some intial challanges through hack the box and struggles trying to deploy a WTMP file without having to use parsing on Visual Studio Code, i havee decided to deply Wazah an Open Source SIEM tool to helop me navigate the files quciker. 
+After facing some intial challanges through hack the box and struggles trying to deploy a WTMP file without having to use parsing on Visual Studio Code, i havee decided to deply Wazah an Open Source SIEM tool to help me navigate the files quciker. 
